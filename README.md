@@ -1,6 +1,6 @@
 # Hi there, I'm Aashutosh 👋 
 
-An aspiring **DevOps & Cloud Engineer** from India, currently executing a rigorous, project-driven learning path to build modern infrastructure automation skills. 
+An aspiring **DevOps & Cloud Engineer** from Maharashtra,India, currently executing a rigorous, project-driven learning path to build modern infrastructure automation skills. 
 
 I focus on bridging the gap between local system environments and scalable cloud architectures by building, breaking, and fixing real-world deployments.
 
