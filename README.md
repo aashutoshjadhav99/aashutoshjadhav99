@@ -32,5 +32,4 @@ I focus on bridging the gap between local system environments and scalable cloud
 ---
 
 ### 🌐 Connect With Me
-- 💼 **LinkedIn:** 
 - 📧 **Email:** aashutoshjadhav99@gmail.com
