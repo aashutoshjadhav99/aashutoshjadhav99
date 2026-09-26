@@ -11,6 +11,7 @@ I focus on bridging the gap between local system environments and scalable cloud
 - **Operating System & Terminal:** Linux (Ubuntu CLI) | MobaXterm (SSH)
 - **Cloud Platform:** Amazon Web Services (AWS EC2, VPC, IAM, S3)
 - **Version Control & Collaboration:** Git | GitHub
+- **Docker**
 
 ---
 
