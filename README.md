@@ -20,7 +20,7 @@ I focus on bridging the gap between local system environments and scalable cloud
 - ☁️ **Cloud Core:** Designing secure infrastructure layouts in AWS using VPCs, compute instances, and storage buckets.
 - 🔀 **DevOps Foundations:** Working with Git version control pipelines to track code changes, manage code branches, and automate workflows.
 - 🖥️**Docker:** Aspiring DevOps Engineer | Currently mastering Docker
-- **Git lab **Utilized GitLab Issues and Boards to practice agile project management methodologies.
+- **Git , Git Hub ,Git lab **Utilized GitLab Issues and Boards to practice agile project management methodologies.
 
 ---
 
