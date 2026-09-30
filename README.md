@@ -19,9 +19,12 @@ I focus on bridging the gap between local system environments and scalable cloud
 
 - 🐧 **Linux Administration:** Mastery of the CLI, system user permissions, package management, and basic networking configurations.
 - ☁️ **Cloud Core:** Designing secure infrastructure layouts in AWS using VPCs, compute instances, and storage buckets.
+- 🐙 **Git & GitHub:** Version control, branching strategies, Pull Requests, and GitHub Actions.
 - 🔀 **DevOps Foundations:** Working with Git version control pipelines to track code changes, manage code branches, and automate workflows.
 - 🖥️**Docker:** Aspiring DevOps Engineer | Currently mastering Docker
-- **Git , Git Hub ,Git lab **Utilized GitLab Issues and Boards to practice agile project management methodologies.
+- ☸️ **Kubernetes:** Orchestrating clusters, managing pods, services, and deployments.
+
+
 
 ---
 
